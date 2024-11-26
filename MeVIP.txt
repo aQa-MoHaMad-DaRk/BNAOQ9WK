@@ -16,3 +16,4 @@ vless://53058148-c334-454e-839d-90c32ffd07c7@H3.Persia.My:45554?security=none&en
 vless://53058148-c334-454e-839d-90c32ffd07c7@H1.CreHistory.Org:35552?security=none&encryption=none&headerType=none&type=tcp#VLESS%20%F0%9F%87%B3%F0%9F%87%B1
 vless://53058148-c334-454e-839d-90c32ffd07c7@H2.Persia.My:35551?security=none&encryption=none&headerType=none&type=tcp#VLESS%20%F0%9F%87%AB%F0%9F%87%AE
 vmess://eyJhZGQiOiJIMy5QZXJzaWEuTXkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im15a2V0LmJhemFyLmRpdmFyLnRhcHNpLnNuYXBwLmlyIiwiaWQiOiIzZWU4ODgwZS02ZjUwLTRjZGMtYTA1Mi1mZWVlMTAzYTBmN2EiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL3N1Ym1pdCIsInBvcnQiOiIxNTAwMCIsInBzIjoiV21lZXMg8J+Hq/Cfh7ciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+...
