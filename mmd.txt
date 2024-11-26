@@ -1,2 +1,2 @@
-hysteria2://samSpoUeZj@45.129.185.4:5000?security=tls&obfs=salamander&obfs-password=MYGaMeOP&insecure=1&sni=fast.com#hys2%20%F0%9F%87%A6%F0%9F%87%B2
-hysteria2://05dkNw5xTO@93.127.222.197:443?security=tls&obfs=salamander&obfs-password=hG45%234fGtr54%5E66ghz&insecure=1&sni=www.google.com#hys%20%F0%9F%87%A9%F0%9F%87%AA
+hysteria2://samSpoUeZj@45.129.185.4:443?sni=fast.com&obfs=salamander&obfs-password=MYGaMeOP&insecure=1#hys2%20%F0%9F%87%A6%F0%9F%87%B2
+hysteria2://05dkNw5xTO@93.127.222.197:443?sni=www.google.com&obfs=salamander&obfs-password=hG45%234fGtr54%5E66ghz&insecure=1#hys%20%F0%9F%87%A9%F0%9F%87%AA
